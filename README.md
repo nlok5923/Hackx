@@ -137,3 +137,11 @@ TWILIO_NOTIFY_SERVICE_SID=<service id>
 - Frontend of offquiz web app is deployed at https://offquiz-app.netlify.app/
 - Backend of the OffQuiz web app is deployed at https://peaceful-island-93608.herokuapp.com/
 
+## Asset
+- [ppt](https://www.canva.com/design/DAEluvCyQ-U/i8s0V9yxihAIQwuS45TXjA/view?utm_content=DAEluvCyQ-U&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
+## Team: Break it or make it 
+- Nitanshu Lokhande
+- Darshan Hande
+- Keshav Agarwal 
+
